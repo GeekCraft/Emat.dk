@@ -1,1 +1,1 @@
-javascript:for(count = 0; count < 2; count++){document.getElementById("Textbox_BrugersvarA").value=FacitA[ValgtSpg]; OpdBrugersvarA(-2);}document.getElementById("Textbox_BrugersvarA").value=FacitA[ValgtSpg]; SkiftSpg(-1);
+javascript:for(count = 0; count < 2; count++){document.getElementById("Textbox_BrugersvarA").value=FacitA[ValgtSpg]; OpdBrugersvarA(-2); SkiftSpg(-1);}document.getElementById("Textbox_BrugersvarA").value=FacitA[ValgtSpg];
