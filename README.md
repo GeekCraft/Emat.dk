@@ -18,7 +18,11 @@ CPS = ClicksPerSecond
 
 PS = PerSecond
 
+DW = Don't Work
+
 $ = Dollar/money
+
+- = Space
 
   --Examples/Eksempler--
 
