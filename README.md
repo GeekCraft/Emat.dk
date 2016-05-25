@@ -22,7 +22,7 @@ You have to use a javascript console to all scripts.
 
 - $ = Dollar/money
 
-Hyphen/- = Space
+Hyphen - = Space
 
   --Examples/Eksempler--
 
