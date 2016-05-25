@@ -12,15 +12,15 @@ You have to use a javascript console to all scripts.
 
   --Abbreviations/Forkortelser--
 
-PC = PerClick
+- PC = PerClick
 
-CPS = ClicksPerSecond
+- CPS = ClicksPerSecond
 
-PS = PerSecond
+- PS = PerSecond
 
-DW = Don't Work
+- DW = Don't Work
 
-$ = Dollar/money
+- $ = Dollar/money
 
 - = Space
 
@@ -28,7 +28,7 @@ $ = Dollar/money
 
 Fx. 
 
-3PC = 3 <value:Fx. answers> PerClick
+- 3PC = 3 <value:Fx. answers> PerClick
 
-2$PS = 2 dollars PerSecond
+- 2$PS = 2 dollars PerSecond
 
