@@ -31,4 +31,6 @@ Fx.
 - 3PC = 3 <value:Fx. answers> PerClick
 
 - 2$PS = 2 dollars PerSecond
+ 
+- 2PC-DW = 2 PerClick Don't Work
 
