@@ -2,6 +2,11 @@
 Hacks for Emat.dk a danish mathematics site
 
 You have to use a javascript console to all scripts.
+: #Abbreviations
+: #Examples
+
+
+
 
   --Abbreviations/Forkortelser--
 
@@ -20,5 +25,4 @@ Fx.
 3PC = 3 <value:Fx. answers> PerClick
 
 2$PS = 2 dollars PerSecond
-#ematdk
 
