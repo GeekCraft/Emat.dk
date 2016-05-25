@@ -3,7 +3,7 @@ Hacks for Emat.dk a danish mathematics site
 
 You have to use a javascript console to all scripts.
 
-#---Abbreviations/Forkortelser---#
+#--Abbreviations/Forkortelser--
 
 PC = PerClick
 
@@ -13,7 +13,7 @@ PS = PerSecond
 
 $ = Dollar/money
 
-#---Examples/Eksempler---#
+#--Examples/Eksempler--
 Fx. 
 
 3PC = 3 <value:Fx. answers> PerClick
