@@ -1,0 +1,1 @@
+javascript:for(count = 0; count < 25; count++){document.getElementById("Textbox_BrugersvarA").value=FacitA[ValgtSpg]; OpdBrugersvarA(-2); SkiftSpg(-1);}document.getElementById("Textbox_BrugersvarA").value=FacitA[ValgtSpg]; modalAfslut(4); __doPostBack('LinkButton_AfslutJa','');
