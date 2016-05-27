@@ -20,8 +20,11 @@ You have to use a javascript console to all scripts.
 
 - DW = Don't Work
 
+- DN = Done      
+
 - $ = Dollar/money
 
+- Auto = Automatic
 Hyphen or - = Space
 
   --Examples/Eksempler--
