@@ -1,3 +1,7 @@
+Snyd fundet på den her side, er lavet af WeeHee (tidligere udvikler af Emat Cheat) https://discord.gg/8WQbfEh https://www.youtube.com/c/WeeHee
+
+
+
 # Emat.dk
 Hacks for Emat.dk a danish mathematics site
 
