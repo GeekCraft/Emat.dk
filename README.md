@@ -1,44 +1,44 @@
-Snyd fundet på den her side, er lavet af WeeHee (tidligere udvikler af Emat Cheat) https://discord.gg/8WQbfEh https://www.youtube.com/c/WeeHee
+Snyd fundet på den her side er lavet af WeeHee, som er den tidligere udvikler af Emat Cheat
+
+Emat Cheat discord server: 
+https://discord.gg/8WQbfEh
+
+Min YouTube-kanal:
+https://www.youtube.com/c/WeeHee
 
 
 
 # Emat.dk
-Hacks for Emat.dk a danish mathematics site
+Snyd til Emat.dk
 
-You have to use a javascript console to all scripts.
+For at bruge snyd, skal du skrive koderne ind i din browsers javascript konsol. Ofte er F12 genvejen dertil.
 
-: Abbreviations : Forkortelser
+: Forkortelser
 
-: Examples  : Eksempler
-
-
+: Eksempler
 
 
-  --Abbreviations/Forkortelser--
 
-- PC = PerClick
 
-- CPS = ClicksPerSecond
+  --Forkortelser--
 
-- PS = PerSecond
+- PC = Per klik
 
-- DW = Don't Work
+- PS = Per sekund
 
-- DN = Done      
+- DW = Virker ikke mere
 
-- $ = Dollar/money
+- DN = Færdig      
 
-- Auto = Automatic
+- Auto = Automatisk
 
-- Hyphen or - = Space
+- Hyphen, bindestreg or - = Mellemrum
 
-  --Examples/Eksempler--
+  --Eksempler--
 
 Fx. 
 
-- 3PC = 3 <value:Fx. answers> PerClick
-
-- 2$PS = 2 dollars PerSecond
+- 3PC = 3 <value:Fx. answers> Per klik
  
-- 2PC-DW = 2 PerClick Don't Work
+- 2PC-DW = 2 Per klik som ikke virker mere
 
