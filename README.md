@@ -1,9 +1,11 @@
+# Vigtigt. I skal bruge den nye snyd.
+
 Min snyd er uopdateret. Brug i stedet Emat Smash. Deres snyd er den bedste, man kan få.
 
 https://ematsmash.cf/
 
 
-
+# Programmør
 
 Snyd fundet på den her side er lavet af WeeHee, som er den tidligere udvikler af Emat Cheat
 
